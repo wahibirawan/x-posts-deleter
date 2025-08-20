@@ -23,7 +23,7 @@ Comes with a floating **GUI panel** to track progress, pause/resume, and stop.
 1. Open [X](https://x.com) in your browser and log in.
 2. Go to your profile page (where your tweets are listed).
 3. Open **DevTools Console** (`F12` or `Ctrl+Shift+I` → Console).
-4. Paste the script from [`auto-delete.js`](./auto-delete.js).
+4. Paste the script from [`auto-delete.js`](./script.js).
 5. Press **Enter** → the GUI will appear in the bottom-right corner.
 
 ---
